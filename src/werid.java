@@ -1,14 +1,14 @@
 class werid {
-    static String sayGood() {
-        return "T";
+    static String sayBader() {
+        return "Mom is dumb";
     }
-    static void why(){
-        System.out.println("Did you know that ily stands for I love you?");
+    static void whyIsMomDumb(){
+        System.out.println("Did you know that mom sucks?");
     }
     public static void main(String[] args) {
         // Add crete methods here.
-        sayGood();
-        System.out.println(sayGood());
+        sayBader();
+        System.out.println(sayBader());
         // Create method that returns void or nothing
         why();
     }
